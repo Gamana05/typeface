@@ -1,0 +1,8 @@
+->Web scraping, often called web crawling or web spidering, or “programmatically going over a collection of web pages and extracting data,” is a powerful tool for working with data on the web.
+->you’ll need to handle concurrency so you can crawl more than one page at a time. 
+->You’ll probably want to figure out how to transform your scraped data into different formats like CSV, XML, or JSON. 
+->And you’ll sometimes have to deal with sites that require specific settings and access patterns.
+step1:create a basic scraper.
+step2:Extracting data from a page.
+step3:crawling multiple pages.
+By this way we have to solve the problem while crawling a website. 
